@@ -155,10 +155,10 @@
                 <input type="text" name=""placeholder="enter your name">
             </div>
             <div class="formgroup">
-                <input type="text" name=""placeholder="enter your girlfriend name">
+                <input type="text" name=""placeholder="enter your place">
             </div>
             <div class="formgroup">
-                <input type="text" name=""placeholder="enter your ages">
+                <input type="text" name=""placeholder="enter your age">
             </div>
             <button class="btn1">Submit</button>
             
